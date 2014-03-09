@@ -178,6 +178,8 @@
 	[defaultValues setObject:[NSNumber numberWithBool:NO] forKey:@"thingsAddingEnabled"];
 	[defaultValues setObject:[NSNumber numberWithBool:NO] forKey:@"omniFocusEnabled"];
 	[defaultValues setObject:[NSNumber numberWithBool:NO] forKey:@"omniFocusAddingEnabled"];
+	[defaultValues setObject:[NSNumber numberWithBool:NO] forKey:@"theHitListEnabled"];
+	[defaultValues setObject:[NSNumber numberWithBool:NO] forKey:@"theHitListAddingEnabled"];
 	[defaultValues setObject:[NSNumber numberWithBool:NO] forKey:@"remindersEnabled"];
 	[defaultValues setObject:[NSNumber numberWithBool:NO] forKey:@"remindersAddingEnabled"];
 	[defaultValues setObject:[NSNumber numberWithBool:NO] forKey:@"ichatEnabled"];
